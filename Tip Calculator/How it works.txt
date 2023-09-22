@@ -1,0 +1,1 @@
+This is a simple tip calculator. You simply enter the bill amount and what percentage of that bill you and your friend want to pay as tip. This app will calculate the average of that tip and calculate the total amount you have to pay.
